@@ -1,0 +1,7 @@
+*.DS_Store
+*VERSION
+
+*/__pycache__/
+*/.idea/
+*/layouts/
+*/test_cases/
